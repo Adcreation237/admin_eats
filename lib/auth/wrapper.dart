@@ -2,7 +2,6 @@ import 'package:admin_eats/admin/dashbord.dart';
 import 'package:admin_eats/auth/login_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 
 class Wrapper extends StatefulWidget {
   @override
