@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       SystemUiOverlayStyle.light.copyWith(statusBarColor: Colors.transparent),
     );
     return MaterialApp(
-      title: 'Admin-Eats',
+      title: 'BABDRA-Partner',
       theme: ThemeData(
         primaryColor: Colors.deepOrangeAccent,
         fontFamily: "Lato",
